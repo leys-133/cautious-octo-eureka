@@ -1,0 +1,8 @@
+{
+  "name": "Nour - Islamic Companion",
+  "description": "A comprehensive Islamic application featuring Prayer Times, Quran, Hadith, and an AI Assistant.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
